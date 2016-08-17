@@ -4,7 +4,8 @@
   * [Day one slides](https://drive.google.com/open?id=0B4Dj4Xgq55kUd0tld2luZnNveVk)
   * [Agile Task Management] (https://github.com/Praqma/reveals) Subfolder; ATM
   * [Scrum lego simulation](http://www.lego4scrum.com/)
-  * [Git Basic](https://drive.google.com/open?id=0B4Dj4Xgq55kUYTV0MGNCclRLajA)
+  * [Git Basic + Advanced](https://drive.google.com/open?id=0B4Dj4Xgq55kUYTV0MGNCclRLajA)
+  * [Docker](http://box.coffeedrop.dk/index.php/s/HZPVhvtr0gxSoTe#pdfviewer)
 
   
 ## Notes
@@ -17,3 +18,4 @@
 * [TDD](https://docs.google.com/forms/d/e/1FAIpQLSeKzayD3V5CKhCo0H5bAJm3wKgYVXlue-B1cUacamZ50I1syA/viewform?c=0&w=1)
 * [GIT Basic](https://goo.gl/forms/ntUTgjW0YJEjTXw02)
 * [GIT Advanced](https://goo.gl/forms/i6FyOZw9aJy43gzk1)
+* [Docker](https://goo.gl/forms/ng0c39jFkEtO5ZbD2)
