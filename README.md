@@ -15,4 +15,5 @@
 
 * [LEGO](https://goo.gl/forms/wmLTW5zbVCxhUTts2)
 * [TDD](https://docs.google.com/forms/d/e/1FAIpQLSeKzayD3V5CKhCo0H5bAJm3wKgYVXlue-B1cUacamZ50I1syA/viewform?c=0&w=1)
-* [GIT](https://goo.gl/forms/ntUTgjW0YJEjTXw02)
+* [GIT Basic](https://goo.gl/forms/ntUTgjW0YJEjTXw02)
+* [GIT Advanced](https://goo.gl/forms/i6FyOZw9aJy43gzk1)
