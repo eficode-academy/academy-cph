@@ -11,6 +11,9 @@
 ## Notes
 
   * [Characterizing people as non-linear, first-order components in software development](http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development)
+  * [Git Rebase](https://benmarshall.me/git-rebase/)
+  * [Git Reset demystified](https://git-scm.com/blog/2011/07/11/reset.html)
+  * [Git Branching training](http://learngitbranching.js.org/)
 
 ## Surveys
 
