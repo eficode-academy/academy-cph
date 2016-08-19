@@ -9,7 +9,7 @@
 
 ## Day 5 Instructions
 
-  * https://gist.github.com/meekrosoft/a7e0ab6e1d69f3a40fd1b0c5647ce2c3
+  * [Team Instructions](TeamScenario.md)
   
 ## Notes
 
