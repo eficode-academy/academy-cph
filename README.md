@@ -7,6 +7,9 @@
   * [Git Basic + Advanced](https://drive.google.com/open?id=0B4Dj4Xgq55kUYTV0MGNCclRLajA)
   * [Docker](http://box.coffeedrop.dk/index.php/s/HZPVhvtr0gxSoTe#pdfviewer)
 
+## Day 5 Instructions
+
+  * https://gist.github.com/meekrosoft/a7e0ab6e1d69f3a40fd1b0c5647ce2c3
   
 ## Notes
 
